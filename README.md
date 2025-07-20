@@ -1,8 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
 # YouTube Clone
 
 ## Project Overview
